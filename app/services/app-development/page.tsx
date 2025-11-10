@@ -9,6 +9,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { CheckCircle, Smartphone, Monitor, Tablet, ArrowRight } from "lucide-react"
+//fddggh
 import MetaTags from "@/components/seo/meta-tags"
 
 const features = [
